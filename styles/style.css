@@ -39,6 +39,7 @@ body {
     outline: none;
     color: #191411;
     font-style: normal;
+    font-size: 18px;
 }
 
 .button:hover {
@@ -83,7 +84,7 @@ body {
 
 .menu-item {
 
-    margin-left: 88px;
+    margin-right: 88px;
 }
 
 .menu-item a {
@@ -224,7 +225,7 @@ body {
 .products-item-text {
     font-size: 16px;
     line-height: 140%;
-    margin: 24px;
+    margin-bottom: 24px;
 }
 .products-item-extra {
     display: flex;
